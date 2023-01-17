@@ -1,5 +1,5 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "javirescalvo/swaggerclient-php",
     "description": "",
     "keywords": [
         "swagger",
@@ -32,5 +32,6 @@
     },
     "autoload-dev": {
         "psr-4": { "Swagger\\Client\\" : "test/" }
-    }
+    },
+	"minimum-stability": "dev"
 }
